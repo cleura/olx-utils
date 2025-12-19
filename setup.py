@@ -23,7 +23,7 @@ setup(
     use_scm_version=True,
     description='Utilities for edX OLX courses',
     long_description=open('README.rst').read(),
-    url='https://github.com/hastexo/olx-utils',
+    url='https://github.com/cleura/olx-utils',
     author='hastexo',
     author_email='pypi@hastexo.com',
     license='AGPL-3.0',
